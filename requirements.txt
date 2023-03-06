@@ -1,5 +1,6 @@
-numpy @ file:///C:/ci/numpy_and_numpy_base_1649782970434/work
-openpyxl @ file:///tmp/build/80754af9/openpyxl_1632777717936/work
-pandas @ file:///C:/ci/pandas_1650373458095/work
-plotly @ file:///opt/conda/conda-bld/plotly_1646671701182/work
+matplotlib-inline @ file:///C:/ci/matplotlib-inline_1661915841596/work
+numpy==1.24.2
+openpyxl==3.1.1
+pandas==1.5.3
+plotly==5.13.1
 streamlit==1.19.0
